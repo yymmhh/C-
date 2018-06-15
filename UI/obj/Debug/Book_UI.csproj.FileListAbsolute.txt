@@ -1,0 +1,33 @@
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\bin\Debug\Book_UI.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\obj\Debug\Book_UI.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\obj\Debug\Book_UI.BookManagementForm.resources
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\obj\Debug\Book_UI.BookManagementSysForm.resources
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\obj\Debug\Book_UI.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\obj\Debug\Book_UI.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\bin\Debug\Book_UI.exe
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\bin\Debug\Book_UI.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\obj\Debug\Book_UI.exe
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\obj\Debug\Book_UI.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\bin\Debug\Book_BLL.dll
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\bin\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\bin\Debug\Book_BLL.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\bin\Debug\Model.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\bin\Debug\Book_DAL.dll
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_UI\bin\Debug\Book_DAL.pdb
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\bin\Debug\Book_UI.exe.config
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\bin\Debug\Book_UI.exe
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\bin\Debug\Book_UI.pdb
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\bin\Debug\Book_BLL.dll
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\bin\Debug\Book_DAL.dll
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\bin\Debug\Book_BLL.pdb
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\bin\Debug\Book_DAL.pdb
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\obj\Debug\Book_UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\obj\Debug\Book_UI.BookManagementForm.resources
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\obj\Debug\Book_UI.BookManagementSysForm.resources
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\obj\Debug\Book_UI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\obj\Debug\Book_UI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\obj\Debug\Book_UI.exe
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\obj\Debug\Book_UI.pdb
+C:\Users\Administrator\Desktop\accp\YMH\Book_UI\obj\Debug\Book_UI.Main.resources

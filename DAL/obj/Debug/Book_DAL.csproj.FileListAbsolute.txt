@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_DAL\bin\Debug\Book_DAL.dll
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_DAL\bin\Debug\Book_DAL.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_DAL\obj\Debug\Book_DAL.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_DAL\obj\Debug\Book_DAL.dll
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_DAL\obj\Debug\Book_DAL.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_DAL\bin\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2012\Projects\BookManagementSysForm\Book_DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\accp\YMH\Book_DAL\bin\Debug\Book_DAL.dll
+C:\Users\Administrator\Desktop\accp\YMH\Book_DAL\bin\Debug\Book_DAL.pdb
+C:\Users\Administrator\Desktop\accp\YMH\Book_DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\accp\YMH\Book_DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\accp\YMH\Book_DAL\obj\Debug\Book_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\accp\YMH\Book_DAL\obj\Debug\Book_DAL.dll
+C:\Users\Administrator\Desktop\accp\YMH\Book_DAL\obj\Debug\Book_DAL.pdb
